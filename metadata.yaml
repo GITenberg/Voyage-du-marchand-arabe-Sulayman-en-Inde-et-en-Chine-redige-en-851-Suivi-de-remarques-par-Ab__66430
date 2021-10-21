@@ -5,6 +5,9 @@ contributor:
     agent_name: Karpelès, Andrée
     gutenberg_agent_id: '53806'
     url: http://www.gutenberg.org/2009/agents/53806
+covers:
+- cover_type: archival
+  image_path: 66430-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ben Ibrahim, Sliman
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '53805'
     url: http://www.gutenberg.org/2009/agents/53805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66430#Voyage-du-marchand-arabe-Sulayman-en-Inde-et-en-Chine-redige-en-851-Suivi-de-remarques-par-Ab_
 gutenberg_issued: '2021-09-30'
 identifiers:
   gutenberg: '66430'
